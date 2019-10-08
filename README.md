@@ -1,2 +1,2 @@
 # Hackerearth_GardenNerd
-GardenNerd
+GardenNerd challenge for multiclass classification of flower species
